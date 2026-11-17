@@ -1,0 +1,10 @@
+user_data/
+debug/
+venv/
+__pycache__/
+resume.pdf
+activity_log.csv
+applied_jobs.json
+generated_content.yaml
+config.yaml
+*.pyc
